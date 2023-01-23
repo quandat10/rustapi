@@ -1,0 +1,20 @@
+{
+  "environment": "development",
+
+  "server": {
+    "port": 8080
+  },
+  
+  "database": {
+    "uri": "mongodb+srv://reeni:reeni@reeni.wcm2ufu.mongodb.net",
+    "name": "reeni"
+  },
+  
+  "auth": {
+    "secret": "reeni"
+  },
+
+  "logger": {
+    "level": "debug"
+  }
+}
