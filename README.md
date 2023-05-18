@@ -1,7 +1,5 @@
 # rustapi
 
-[![Tests](https://github.com/ndelvalle/rustapi/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/quandat10/rustapi/actions)
-
 RESTful API template built with Rust lang. It uses [MongoDB](https://docs.mongodb.com/)
 database and [Axum](https://github.com/tokio-rs/axum) HTTP framework.
 
@@ -12,13 +10,13 @@ database and [Axum](https://github.com/tokio-rs/axum) HTTP framework.
 
 ### Features
 
-* Authentication. Based on [jsonwebtoken](https://github.com/Keats/jsonwebtoken)
-* Layered configuration system. Based on [config-rs](https://github.com/mehcode/config-rs)
-* Logs. Based on [tracing](https://github.com/tokio-rs/tracing)
-* Error handling
-* CI Jobs based on Github actions
-* E2E Tests
-* Dependabot configuration
+- Authentication. Based on [jsonwebtoken](https://github.com/Keats/jsonwebtoken)
+- Layered configuration system. Based on [config-rs](https://github.com/mehcode/config-rs)
+- Logs. Based on [tracing](https://github.com/tokio-rs/tracing)
+- Error handling
+- CI Jobs based on Github actions
+- E2E Tests
+- Dependabot configuration
 
 ### Project structure
 
